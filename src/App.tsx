@@ -8,8 +8,8 @@ function App() {
         {/* Logo */}
         <div className="flex justify-center mb-6">
           <img
-            src="/src/assets/Obj.png" 
-            alt="Twist Logo"
+            src="/Obj.png" 
+            alt="Obj Logo"
             className="h-20 w-24"
           />
         </div>
